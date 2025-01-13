@@ -25,3 +25,17 @@ Physics Department, Institute of Geosciences and Exact Sciences, São Paulo Stat
 E-mail: <cesar.bof@unesp.br>
 
 __Keywords__: *biosensor, oral cancer, saliva, biomarker, metal-organic frameworks, noninvasive analysis, machine learning.*
+
+### Contents
+
+* COL6A1.ipynb - The Python notebook contains the code used for the COL6A1
+  strategy.
+
+* CSTB1.ipynb - The Python notebook contains the code used for the CSTB1
+  strategy.
+
+* LTA4H.ipynb - The Python notebook contains the code used for the LTA4H
+  strategy.
+
+* reunidos.ipynb - The Python notebook contains the code used for the assembled
+  strategy.
